@@ -12,5 +12,7 @@ The viewer should have Git installed and have a GitHub account.
 
 This should work
 
-Checking doxker integratiion
+Checking docker integration
 lets try circlecI to docker integration now
+
+Hurrah!! its Working .. but neeed to check some other
